@@ -1,7 +1,7 @@
 # PhoneMouseClient-iOS
 PhoneMouseClient is a mobile application designed to control your Windows PC or Mac remotely via touch gestures, like mouse movement and clicks. The app communicates with a SignalR server to simulate mouse and keyboard interactions on your desktop or laptop.
 
-<img src="demoIMGs/IMG_3589.PNG" alt="Demo Image" width="250" /><img src="demoIMGs/IMG_3590.PNG" alt="Demo Image" width="250" /><img src="demoIMGs/IMG_3591.PNG" alt="Demo Image" width="250" /><img src="demoIMGs/IMG_3592.PNG" alt="Demo Image" width="250" />
+<img src="demoIMGs/IMG_3589.PNG" alt="Demo Image" width="100" /><img src="demoIMGs/IMG_3590.PNG" alt="Demo Image" width="100" /><img src="demoIMGs/IMG_3591.PNG" alt="Demo Image" width="100" /><img src="demoIMGs/IMG_3592.PNG" alt="Demo Image" width="100" />
 
 
 # Features:
